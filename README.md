@@ -2,10 +2,10 @@
 
 ## Indicaciones Preliminares:
 
-- El repositorio se usará para validar lo que se entregue en el Ecampus. 
+- El repositorio se usará para validar lo que se entregue en el Ecampus. Se espera un aporte equitativo de cada estudiante y dicho aporte se utilizará como multiplicador de la nota obtenida grupalmente.  
 - Los documentos referentes a la segunda entrega deberán estar en la carpeta "SegundaEntrega", ubicada en la raíz de este repositorio.
 - Los documentos referentes a la entrega final deberán estar en la carpeta "EntregaFinal", ubicada en la raíz de este repositorio.
-- Crear un archivo "README.md" en la raíz del repositorio que contenga:
+- Crear un archivo "README.md" (sobreescribiendo este) en la raíz del repositorio que contenga:
 	- Nombre del equipo
 	- Módulo asignado
 	- Métodos desarrollados
