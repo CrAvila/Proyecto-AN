@@ -1,5 +1,18 @@
 # Proyecto-AN
 
+## Indicaciones Preliminares:
+
+- El repositorio se usará para validar lo que se entregue en el Ecampus. 
+- Los documentos referentes a la segunda entrega deberán estar en la carpeta "SegundaEntrega", ubicada en la raíz de este repositorio.
+- Los documentos referentes a la entrega final deberán estar en la carpeta "EntregaFinal", ubicada en la raíz de este repositorio.
+- Crear un archivo "README.md" en la raíz del repositorio que contenga:
+	- Nombre del equipo
+	- Módulo asignado
+	- Métodos desarrollados
+	- Nombre de cada estudiante y usuario de GitHub correspondiente
+	- Carnet de cada estudiante
+
+
 ## Segunda Entrega
 
 ### Descripción
