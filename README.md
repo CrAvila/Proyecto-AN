@@ -58,7 +58,7 @@ La aplicación deberá ser desarrollada en el mismo lenguaje de programación qu
 
 ### Productos a entregar:
 
-- Ejecutable de la aplicación
+- Ejecutable de la aplicación (para Windows)
 - Manual de usuario
 - Video explicativo
 
